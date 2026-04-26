@@ -17,7 +17,7 @@ I specialize in integrating AI into existing products — designing LLM-based mu
 
 `Semantic Kernel SDK` `Agent Framework SDK` `Phaser 3`
 
-### Tools & Practices
+### Tools
 
 | | | |
 |---|---|---|
