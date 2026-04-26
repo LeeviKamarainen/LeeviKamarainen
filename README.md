@@ -15,7 +15,7 @@ I specialize in integrating AI into existing products — designing LLM-based mu
 |---|---|---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/><br>C# | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title=".NET"/><br>.NET | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" title="Python"/><br>Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/><br>JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40" title="MATLAB"/><br>MATLAB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" title="SQL"/><br>SQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React.js"/><br>React.js |
 
-`Semantic Kernel SDK` `Phaser 3`
+`Semantic Kernel SDK` `Agent Framework SDK` `Phaser 3`
 
 ### Tools & Practices
 
