@@ -1,9 +1,6 @@
 # Leevi Kämäräinen
 
 **AI Engineer · M.Sc. Computational Engineering · LUT University · Finland**
-
-I specialize in integrating AI into existing products — designing LLM-based multi-agent systems, RAG architectures, and context-engineered pipelines that ship as real product features. I work daily with modern AI-assisted development tools: Cursor, Claude Code, GitHub Copilot, and spec-driven development.
-
 ---
 
 ### AI / ML
