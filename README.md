@@ -4,7 +4,7 @@
 ---
 
 ### AI / ML
-`LLM Agents` `Multi-Agent Systems` `RAG` `Context Engineering` `Prompt Engineering` `Azure OpenAI` `Computer Vision` `Machine Learning`
+`LLM Agents` `RAG` `Context Engineering` `Azure OpenAI` `Computer Vision` `Machine Learning`
 
 ### Languages & Frameworks
 
